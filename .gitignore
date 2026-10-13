@@ -1,0 +1,13 @@
+# 大体积字典文件（超出 GitHub 单文件限制）
+rockyou.txt
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# IDE / 系统
+.idea/
+.vscode/
+.DS_Store
